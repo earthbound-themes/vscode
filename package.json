@@ -91,7 +91,7 @@
             {
                 "label": "Earthbound - Cave of the Past",
                 "uiTheme": "vs",
-                "path": "./themes/cave.json"
+                "path": "./themes/cave-of-the-past.json"
             }
         ]
     }
