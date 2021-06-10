@@ -4,7 +4,7 @@
     {
       "name": "Global settings",
       "settings": {
-        "background": "#1c0037",
+        "background": "#360a5f",
         "foreground": "#ffffff"
       }
     },
@@ -77,7 +77,7 @@
       "name": "Storage",
       "scope": "storage.type, storage.modifier",
       "settings": {
-        "foreground": "#70caff"
+        "foreground": "#fafd51"
       }
     },
     {
@@ -129,14 +129,14 @@
       "name": "Class method",
       "scope": "meta.definition.method entity.name.function",
       "settings": {
-        "foreground": "#f56b3c"
+        "foreground": "#70caff"
       }
     },
     {
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "#f56b3c"
+        "foreground": "#70caff"
       }
     },
     {
@@ -342,7 +342,7 @@
     {
       "name": "Global settings",
       "settings": {
-        "background": "#1c0037",
+        "background": "#360a5f",
         "foreground": "#ffffff"
       }
     }
@@ -352,8 +352,8 @@
     "foreground": "#ffffff",
     "button.background": "#70caff",
     "button.foreground": "#000000",
-    "dropdown.background": "#110021",
-    "input.background": "#110021",
+    "dropdown.background": "#1c0037",
+    "input.background": "#1c0037",
     "inputOption.activeBorder": "#70caff",
     "list.activeSelectionBackground": "#6a6c2380",
     "list.activeSelectionForeground": "#FFFFFF",
@@ -363,17 +363,19 @@
     "list.highlightForeground": "#70caff",
     "list.hoverBackground": "#FFFFFF1a",
     "list.inactiveSelectionBackground": "#FFFFFF33",
-    "activityBar.background": "#110021",
-    "activityBar.dropBackground": "#70caff80",
-    "activityBarBadge.background": "#70caff",
-    "activityBarBadge.foreground": "#000000",
-    "badge.background": "#70caff",
-    "badge.foreground": "#000000",
+    "activityBar.background": "#1c0037",
+    "activityBar.foreground": "#ffffff",
+    "activityBar.dropBackground": "#6a6c2380",
+    "activityBarBadge.background": "#6a6c23",
+    "activityBarBadge.foreground": "#fafd51",
+    "badge.background": "#6a6c23",
+    "badge.foreground": "#fafd51",
     "sideBar.background": "#2b044f",
-    "sideBarSectionHeader.background": "#110021",
+    "sideBar.foreground": "#ffffff",
+    "sideBarSectionHeader.background": "#1c0037",
     "editorGroup.dropBackground": "#70caff80",
     "editorGroup.focusedEmptyBorder": "#70caff",
-    "editorGroupHeader.tabsBackground": "#1c0037",
+    "editorGroupHeader.tabsBackground": "#360a5f",
     "tab.border": "#00000033",
     "tab.activeBorder": "#70caff",
     "tab.inactiveBackground": "#2b044f",
@@ -381,24 +383,27 @@
     "tab.inactiveModifiedBorder": "#908900",
     "tab.unfocusedActiveModifiedBorder": "#c0b700",
     "tab.unfocusedInactiveModifiedBorder": "#908900",
-    "editor.background": "#1c0037",
+    "editor.background": "#360a5f",
     "editor.foreground": "#ffffff",
+    "editor.selectionBackground": "#6a6c23",
+    "editor.selectionHighlightBackground": "#6a6c23",
     "editorLineNumber.foreground": "#94b2b2dd",
     "editorLineNumber.activeForeground": "#fafd51ff",
     "editor.lineHighlightBorder": "#FFFFFF1a",
     "editor.rangeHighlightBackground": "#FFFFFF0d",
-    "editorWidget.background": "#1c0037",
-    "editorHoverWidget.background": "#1c0037",
-    "editorMarkerNavigation.background": "#1c0037",
+    "editorWidget.background": "#360a5f",
+    "editorHoverWidget.background": "#360a5f",
+    "editorMarkerNavigation.background": "#360a5f",
     "peekView.border": "#70caff",
     "peekViewEditor.background": "#2b044f",
-    "peekViewResult.background": "#1c0037",
-    "peekViewTitle.background": "#1c0037",
-    "panel.background": "#1c0037",
+    "peekViewResult.background": "#360a5f",
+    "peekViewTitle.background": "#360a5f",
+    "panel.background": "#360a5f",
     "panel.border": "#FFFFFF1a",
     "panelTitle.activeBorder": "#ffffff80",
     "panelTitle.inactiveForeground": "#ffffff80",
     "statusBar.background": "#2b044f",
+    "statusBar.foreground": "#ffffff",
     "statusBar.debuggingBackground": "#70caff",
     "statusBar.debuggingForeground": "#000000",
     "statusBar.noFolderBackground": "#2b044f",
