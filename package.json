@@ -2,7 +2,7 @@
     "name": "earthbound-themes",
     "displayName": "Earthbound Themes",
     "description": "Unique color themes inspired by the SNES game Earthbound",
-    "version": "1.2.1",
+    "version": "1.3.0",
     "publisher": "benbusby",
     "license": "MIT",
     "repository": {
@@ -72,6 +72,11 @@
                 "label": "Earthbound - Zombie Threed (Darker)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/threed-darker.json"
+            },
+            {
+                "label": "Earthbound - Devil's Machine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/devils-machine.json"
             },
             {
                 "label": "Earthbound - Dusty Dunes",
